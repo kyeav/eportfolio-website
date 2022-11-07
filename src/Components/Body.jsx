@@ -56,7 +56,7 @@ export const Body = () => {
   return (
     <>
       <section id="body" onMouseMove={(event) => moveBackground(event)}>
-        <div className="container">
+        <div className="container about__container">
           <div className="row">
             <h1 data-aos="fade-in" className="section__title">
               <div className="orange">About</div> me
