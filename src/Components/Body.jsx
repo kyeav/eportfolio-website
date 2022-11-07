@@ -87,7 +87,7 @@ export const Body = () => {
               })}
             </div>
 
-            <div className="modal__languages owl-theme">
+            <div data-aos="fade-in" className="modal__languages owl-theme">
               <OwlCarousel {...options}>
                 {stack.map((tech) => {
                   return (
