@@ -574,9 +574,9 @@ nav {
 }
 
 .project__list {
-  box-shadow: 0 20px 80px 0 rgb(0, 0, 0, 0.45);
   padding: 20px;
   border-radius: 20px;
+  box-shadow: 0 20px 80px 0 rgb(0, 0, 0, 0.45);
 }
 
 .project__wrapper:hover .project__img {
