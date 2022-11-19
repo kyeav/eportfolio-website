@@ -44,11 +44,11 @@ export const Modal = () => {
 
   return (
     <>
-      <button class="mail__btn click" onClick={toggleModal}>
+      <button data-aos="fade-up" data-aos-delay="150" class="mail__btn click" onClick={toggleModal}>
         <FaEnvelope />
       </button>
 
-      <a href="#projects" className="scroll">
+      <a data-aos="fade-up" data-aos-delay="150" href="#projects" className="scroll">
         <div className="scroll__icon click"></div>
       </a>
 
