@@ -58,10 +58,10 @@ export const Body = () => {
       <section id="body" onMouseMove={(event) => moveBackground(event)}>
         <div className="container about__container">
           <div className="row">
-            <h1 data-aos="fade-in" className="section__title">
-              <div className="orange">About</div> me
+            <h1 className="section__title">
+              <div data-aos="fade-in" className="orange">About</div> me
             </h1>
-            <p data-aos="fade-in" className="header__para">
+            <p data-aos="fade-up" data-aos-delay="100" className="header__para">
               I'm a <b className="orange">frontend software engineer </b>
               {TypingEffect()}
               <br />
@@ -71,7 +71,7 @@ export const Body = () => {
               </b>
             </p>
 
-            <div data-aos="fade-in" className="social__list">
+            <div data-aos="fade-up" data-aos-delay="150" className="social__list">
               {socialLinks.map((link) => {
                 return (
                   <a

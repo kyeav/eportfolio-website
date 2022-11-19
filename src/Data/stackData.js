@@ -13,6 +13,9 @@ import bem from "../assets/bem.svg";
 import eslint from "../assets/eslint.svg";
 import heroku from "../assets/heroku.svg";
 import vercel from "../assets/vercel.svg";
+import next from "../assets/nextdotjs.svg";
+import tailwind from "../assets/tailwindcss.svg";
+import ts from "../assets/typescript.svg";
 
 export const stack = [
   { id: 1, image: html, name: "HTML5" },
@@ -30,4 +33,7 @@ export const stack = [
   { id: 13, image: eslint, name: "ESLint" },
   { id: 14, image: heroku, name: "Heroku" },
   { id: 15, image: vercel, name: "Vercel" },
+  { id: 16, image: next, name: "Next.js" },
+  { id: 17, image: tailwind, name: "Tailwind CSS" },
+  { id: 18, image: ts, name: "TypeScript" },
 ];
