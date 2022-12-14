@@ -13,7 +13,7 @@ export const Modal = () => {
   const contact = useCallback(
     (event) => {
       event.preventDefault();
-      
+
       // show loading state
       setLoading(true);
 
@@ -44,11 +44,21 @@ export const Modal = () => {
 
   return (
     <>
-      <button data-aos="fade-up" data-aos-delay="150" class="mail__btn click" onClick={toggleModal}>
-        <FaEnvelope />
+      <button
+        data-aos="fade-up"
+        data-aos-delay="150"
+        class="mail__btn click"
+        onClick={toggleModal}
+      >
+        <FaEnvelope className="click" />
       </button>
 
-      <a data-aos="fade-up" data-aos-delay="150" href="#projects" className="scroll">
+      <a
+        data-aos="fade-up"
+        data-aos-delay="150"
+        href="#projects"
+        className="scroll"
+      >
         <div className="scroll__icon click"></div>
       </a>
 

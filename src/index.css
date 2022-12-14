@@ -437,9 +437,9 @@ nav {
 }
 
 .modal__language {
-  width: 50%;
-  position: relative;
-  transition: all 300ms ease;
+  width: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .modal__language:hover .language__name {
@@ -451,13 +451,13 @@ nav {
   transform: scale(0.9);
 }
 
-.language__name {
+/* .language__name {
   position: absolute;
   bottom: -2px;
   transform: scale(0);
   transition: all 300ms ease;
   color: #f06449;
-}
+} */
 
 .modal__contact {
   background-color: #242424;
@@ -579,9 +579,9 @@ nav {
 }
 
 .project__wrapper {
-  position: relative; 
+  position: relative;
   border-radius: 20px;
-  overflow: hidden; 
+  overflow: hidden;
   border: 4px solid #f06449;
 }
 

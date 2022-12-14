@@ -31,7 +31,7 @@ export const Home = () => {
         <Modal />
       </section>
       <Projects />
-      <Body/>
+      <Body />
       <Footer />
     </>
   );

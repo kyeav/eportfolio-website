@@ -6,11 +6,7 @@ export const Header = () => {
     <>
       <header className="header">
         <div className="header__content">
-          <h1
-            data-aos="fade-down"
-            data-aos-delay="100"
-            className="title"
-          >
+          <h1 data-aos="fade-down" data-aos-delay="100" className="title">
             Hey,
           </h1>
           <h1 data-aos="fade-up" data-aos-delay="150" className="title orange">

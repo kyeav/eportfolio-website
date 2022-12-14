@@ -18,7 +18,7 @@ export const Project = (project) => {
               rel="noreferrer"
               className="project__description--link"
             >
-              <FaGithub />
+              <FaGithub className="click" />
             </a>
             <a
               href={project.link}
@@ -26,7 +26,7 @@ export const Project = (project) => {
               rel="noreferrer"
               className="project__description--link"
             >
-              <FaLink />
+              <FaLink className="click" />
             </a>
           </div>
         </div>

@@ -18,7 +18,7 @@ function App() {
     });
     AOS.refresh();
   }, []);
-  
+
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [contrastToggle, setContrastToggle] = useState(
     localStorage.getItem("contrastMode")
