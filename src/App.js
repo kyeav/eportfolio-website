@@ -4,6 +4,7 @@ import React, {
   useState,
   useCallback,
 } from "react";
+import "./app.css"
 import { modalContext } from "./Context/ModalContext";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Home } from "./Pages/Home";
