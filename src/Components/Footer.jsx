@@ -31,7 +31,7 @@ export const Footer = () => {
               GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/kylie-a-824875237/"
+              href="https://www.linkedin.com/in/kylie-arellano-824875237/"
               target="_blank"
               rel="noreferrer"
               className="
@@ -54,7 +54,7 @@ export const Footer = () => {
               Contact
             </Link>
             <a
-              href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:9718a2d1-c6c6-3ad0-b639-66662ea7f1dd"
+              href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b8cf84d5-b28d-3b3a-831d-c7256da466c1"
               target="_blank"
               rel="noreferrer"
               className="
