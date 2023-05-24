@@ -25,6 +25,13 @@ import axios from "../assets/axios.svg";
 import vite from "../assets/vite.svg";
 import netlify from "../assets/netlify.svg";
 import query from "../assets/reactquery.svg";
+import trello from "../assets/trello.svg";
+import jira from "../assets/jira.svg";
+import confluence from "../assets/confluence.svg";
+import azure from "../assets/azure.svg";
+import android from "../assets/android.svg";
+import vsc from "../assets/vsc.svg";
+import reactNative from "../assets/reactNative.svg";
 
 export const stack = [
   { id: 1, image: html, name: "HTML5" },
@@ -54,4 +61,11 @@ export const stack = [
   { id: 25, image: vite, name: "Vite" },
   { id: 26, image: netlify, name: "Netlify" },
   { id: 27, image: query, name: "React Query" },
+  { id: 28, image: trello, name: "Trello" },
+  { id: 29, image: jira, name: "Jira" },
+  { id: 30, image: confluence, name: "Confluence" },
+  { id: 31, image: azure, name: "Azure DevOps" },
+  { id: 32, image: android, name: "Android Studio" },
+  { id: 33, image: vsc, name: "Visual Studio Code" },
+  { id: 34, image: reactNative, name: "React Native" },
 ];

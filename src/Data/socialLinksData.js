@@ -4,7 +4,7 @@ export const socialLinks = [
   {
     id: 1,
     icon: <FaLinkedinIn />,
-    linkTo: "https://www.linkedin.com/in/kylie-arellano-824875237/",
+    linkTo: "https://www.linkedin.com/in/kylie-arellano/",
     name: "LinkedIn",
   },
   {
