@@ -5,12 +5,19 @@ export const socialLinks = [
     id: 1,
     icon: <FaLinkedinIn />,
     linkTo: "https://www.linkedin.com/in/kylie-arellano-824875237/",
+    name: "LinkedIn",
   },
-  { id: 2, icon: <FaGithub />, linkTo: "https://github.com/kyeav" },
+  {
+    id: 2,
+    icon: <FaGithub />,
+    linkTo: "https://github.com/kyeav",
+    name: "GitHub",
+  },
   {
     id: 3,
     icon: <FaFilePdf />,
     linkTo:
-      "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b8cf84d5-b28d-3b3a-831d-c7256da466c1",
+      "https://docs.google.com/document/d/148nS6Lj7KEqnoZCRmHjtSe4_u4pvUH2S1KQ1QUWjfjU/edit?usp=sharing",
+    name: "Resume",
   },
 ];
