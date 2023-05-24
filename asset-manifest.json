@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d85c44b4.css",
-    "main.js": "/static/js/main.62b8b441.js",
+    "main.js": "/static/js/main.58967786.js",
     "static/media/netflix-min.PNG": "/static/media/netflix-min.2644634b1e8b691243f3.PNG",
     "static/media/hulu-min.PNG": "/static/media/hulu-min.ce7b626da1b65cdcfb63.PNG",
     "static/media/twitter2-min.PNG": "/static/media/twitter2-min.4b446d51a0a2f354872b.PNG",
@@ -15,11 +15,13 @@
     "static/media/postcss.svg": "/static/media/postcss.7da5bc952a8a68c12e374781778f77ed.svg",
     "static/media/google-min.PNG": "/static/media/google-min.4223ef2ecd4aa8b0deb1.PNG",
     "static/media/markdown-notes-app-min.PNG": "/static/media/markdown-notes-app-min.31a4993b58a0530f5d41.PNG",
+    "static/media/reactNative.svg": "/static/media/reactNative.9cbf18310f7b53983276b4536364f84a.svg",
     "static/media/netlify.svg": "/static/media/netlify.71bcc3981851abfe7f7fb6348d88809a.svg",
     "static/media/reactquery.svg": "/static/media/reactquery.1a528e022f84c586318e92ba4404a804.svg",
     "static/media/less.svg": "/static/media/less.549831e755caa101800e65dfa1bb2374.svg",
     "static/media/react.svg": "/static/media/react.1495a6a0c751ac52af3164f785e64d7b.svg",
     "static/media/yarn.svg": "/static/media/yarn.931202bb1ca273b1ec0c707baff3ed87.svg",
+    "static/media/confluence.svg": "/static/media/confluence.a42e8b5a3c9df8cb1b8212f520b51e6e.svg",
     "static/media/mui.svg": "/static/media/mui.ecfb19182e72da4243b4f8a4639fe758.svg",
     "static/media/nextdotjs.svg": "/static/media/nextdotjs.02171293962bc80585c6e12ced8ca1c7.svg",
     "static/media/redux.svg": "/static/media/redux.fab92b99e77ff5ea2451a2bd4ad713df.svg",
@@ -30,27 +32,32 @@
     "static/media/figma.svg": "/static/media/figma.178024bde7a6c34f287b3a464d1d77d4.svg",
     "static/media/javascript.svg": "/static/media/javascript.e5ac91acbb7d874c937ba6e429ca2739.svg",
     "static/media/vite.svg": "/static/media/vite.baa79762c9025f5f79b30e547ecc023b.svg",
+    "static/media/jira.svg": "/static/media/jira.bbb9a96285ec329a1e8ba1b59178867b.svg",
     "static/media/squiggly.svg": "/static/media/squiggly.6d15d51511849fe12e55f292d0a43c2d.svg",
+    "static/media/android.svg": "/static/media/android.a7897ffe86f9477707cbcb4f0952a6e3.svg",
     "static/media/eslint.svg": "/static/media/eslint.d71dfb3231a2fa1e9b5ab49b198d9971.svg",
     "static/media/git.svg": "/static/media/git.f942ee2272adc8520a4edfb538a7b1ea.svg",
     "static/media/bem.svg": "/static/media/bem.dd7099e45736f3e14d6ccef566062e25.svg",
     "static/media/heroku.svg": "/static/media/heroku.8070cb5f2591cd5a3a1466050a14ebd0.svg",
+    "static/media/vsc.svg": "/static/media/vsc.2ffb8a45d84e79b6fa44d362f1a721aa.svg",
     "static/media/webpack.svg": "/static/media/webpack.c0de4dc4e754d278284aaaa3d13435e8.svg",
     "static/media/tailwindcss.svg": "/static/media/tailwindcss.d09fc953e7affe05a4e0202f8596256f.svg",
+    "static/media/trello.svg": "/static/media/trello.77945a195d8025e81549c5377ee24ecc.svg",
     "static/media/css3.svg": "/static/media/css3.4881948b51e00d93d62f736f023fa441.svg",
     "static/media/html5.svg": "/static/media/html5.1aac57dbaa30ba0e7c3c8e7ed7e2b928.svg",
     "static/media/firebase.svg": "/static/media/firebase.35e3a1f466834cd696d2d000dad519c6.svg",
     "static/media/npm.svg": "/static/media/npm.92e5af3939313ffc73fbb87c4104f5da.svg",
     "static/media/circle.svg": "/static/media/circle.05d1b2e751fae181c8d2dc037d49af1f.svg",
+    "static/media/azure.svg": "/static/media/azure.3dde5b14f50f1f38ab665c8573b780eb.svg",
     "static/media/axios.svg": "/static/media/axios.dcc18546054c874a04cdc9b23c502ab4.svg",
     "static/media/semi circle.svg": "/static/media/semi circle.c907f90d25fded7006f6842c844bf5ea.svg",
     "static/media/triangle.svg": "/static/media/triangle.ef56d9ee9c4fd57dd0aa41b3c639d3b3.svg",
     "static/media/vercel.svg": "/static/media/vercel.bd138020c73f5af4b43a44e82fa05ab2.svg",
     "main.d85c44b4.css.map": "/static/css/main.d85c44b4.css.map",
-    "main.62b8b441.js.map": "/static/js/main.62b8b441.js.map"
+    "main.58967786.js.map": "/static/js/main.58967786.js.map"
   },
   "entrypoints": [
     "static/css/main.d85c44b4.css",
-    "static/js/main.62b8b441.js"
+    "static/js/main.58967786.js"
   ]
 }
